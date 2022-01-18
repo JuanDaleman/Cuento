@@ -85,7 +85,7 @@ body {
   font-weight: var(--bs-body-font-weight);
   line-height: var(--bs-body-line-height);
   color: var(--bs-body-color);
-  text-align: var(--bs-body-text-align);
+  text-align: var(--bs-body-text-center);
   background-color: var(--bs-body-bg);
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
@@ -4871,6 +4871,7 @@ fieldset:disabled .btn {
   background-clip: border-box;
   border: 2px solid #333;
   border-radius: 25px;
+  text-align: center;
 }
 
 .card > hr {
@@ -4904,10 +4905,12 @@ fieldset:disabled .btn {
   -ms-flex: 1 1 auto;
   flex: 1 1 auto;
   padding: 1rem 1rem;
+  
 }
 
 .card-title {
   margin-bottom: 0.5rem;
+  
 }
 
 .card-subtitle {

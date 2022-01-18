@@ -1,3 +1,6 @@
+.encabezado{
+    text-align: center;
+}
 .carpetaUno{
     width: 30%;
     margin-left: 50px;
@@ -6,16 +9,29 @@
 .carpetaDos{
     width: 30%;
     margin-left: 670px;
-    margin-top: -815px;
+    margin-top: -791px;
 }
 .carpetaTres{
     width: 30%;
     margin-left: 1300px;
-    margin-top: -655px;
+    margin-top: -774px;
 }
 .asno{
     margin-top: -200px;
 }
 .fox{
     margin-top: -200px;
+}
+.pulgar{
+    margin-top: -200px;
+}
+
+.cuerpoCuento{
+    background-color: #fefeff;
+    width: 70%;
+    margin-top: 55px;
+    margin-left: 500px;
+}
+.asnito{
+    width: 200px;
 }
