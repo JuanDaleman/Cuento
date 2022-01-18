@@ -6,12 +6,18 @@
 .carpetaDos{
     width: 30%;
     margin-left: 670px;
-    margin-top: -815px;
+    margin-top: -740px;
 }
 .carpetaTres{
     width: 30%;
     margin-left: 1300px;
-    margin-top: -655px;
+    margin-top: -740px;
+}
+
+.lobo {
+    width: 95%;
+    margin-left: 20px;
+    margin-top: 20px;
 }
 .asno{
     margin-top: -200px;
